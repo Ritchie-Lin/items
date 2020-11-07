@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T07:25:25.523Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="nyDebevmUyaXomydZaBe" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T07:32:05.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0Ti_07G7ra4AjaUlt1A8" version="13.8.8" type="github">
   <diagram id="H2OyWEgOupRw279F355V" name="Page-1">
-    <mxGraphModel dx="1066" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1276,13 +1276,10 @@
           <mxGeometry x="2340" y="2350" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OWO0SizP4_rZd8Xpw6O5-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;StreamID&lt;br&gt;(24)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="2350" width="90" height="60" as="geometry" />
+          <mxGeometry x="2410" y="2350" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OWO0SizP4_rZd8Xpw6O5-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Payload&lt;br&gt;(8*n)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="2350" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OWO0SizP4_rZd8Xpw6O5-34" value="FLV Header:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="2320" width="80" height="20" as="geometry" />
+        <mxCell id="OWO0SizP4_rZd8Xpw6O5-34" value="Tag Header:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="2320" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
